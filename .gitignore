@@ -70,3 +70,4 @@ dist
 # cypress videos & screenshots
 cypress/videos
 cypress/screenshots
+./.idea
